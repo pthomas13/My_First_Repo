@@ -1,4 +1,8 @@
-.naviagtionbar {
+body {
+margin: 0 auto;
+}
+
+.navbar {
 display: inline-block;
 position: relative;
 margin-top: auto;
